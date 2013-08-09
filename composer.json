@@ -2,5 +2,8 @@
     "name": "marlon-be/marlon-ogone",
     "autoload": {
         "psr-0": { "Ogone": "lib/" }
+    },
+    "suggest": {
+        "guzzle/guzzle": "~3.7"
     }
 }
